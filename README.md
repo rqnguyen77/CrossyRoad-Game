@@ -1,18 +1,12 @@
-# CPSC-386-Final-Project-CrossyRoad
+# CrossyRoad Game Project
 
-Due Date: May 23rd, 2021
-
-Group: Randy Nguyen randyxnguyen77@csu.fullerton.edu
+Group: Randy Nguyen rqnguyen77@gmail.com
 
 Download "Contents.zip" for the full project.
 
-Recreate the classic Crossy Road game, using the Unreal 4 Engine, assets
-created using a Voxel editor such as MagicaVoxel, and code written either in C++ (written to interface
+Recreated the classic CrossyRoad game, using the Unreal 4 Engine, assets
+created using a Voxel editor with MagicaVoxel, and code written either in C++ (written to interface
 with Blueprints and the Unreal framework), or with Blueprints, or both.
-The 3d assets you will need will all have to be created using an Voxel editor such as MagicaVoxel, or
-from other 3d asset sources from Unreal. The audio resources you will need can be captured using an
-audio editor such as Audacity from Crossy Road running on a laptop or desktop computer, or running
-as an iOS or Google app on a mobile phone.
 
 # Issues:
 1. Restart Button and Paused widets not working properly. (Won't unpause when paused and won't restart on button press)
