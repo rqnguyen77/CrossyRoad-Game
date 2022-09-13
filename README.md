@@ -1,4 +1,4 @@
-# CrossyRoad Game Project
+# CrossyRoad Game Project (Unfinished)
 
 Group: Randy Nguyen rqnguyen77@gmail.com
 
